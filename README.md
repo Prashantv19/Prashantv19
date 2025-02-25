@@ -1,12 +1,23 @@
-- 👋 Hi, I’m Prashant Vishwakarma
-- 👀 I’m interested in Java, DSA, Front-end Dev, Spring boot
-- 🌱 I’m currently learning JS, Java, DSA
-- 💞️ I’m looking to collaborate to building projects.
-- 📫 How to reach me 
-- 😄 Pronouns:He/Him
-- ⚡ Fun fact: I'm  a very smiling person.
+## Hi there, I'm Prashant! 👋
 
-<!---
-Prashantv19/Prashantv19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 About Me
+I'm a **B.Tech 3rd-year CSE (DS+AI) student** passionate about building impactful software solutions. I specialize in **Android Development**, with strong skills in **Java, Python, DSA, SQL, and Data Science**. Currently, I'm on a **6-month Android development journey** to master mobile app development and land exciting opportunities in the field!
+
+### 🌟 What I Do
+- 💪 Android Development 
+- 📚 Exploring Data Science & SQL for real-world applications
+- ⚙️ Open-source enthusiast | Attended GitHub hands-on workshops
+- 👨‍💻 Building projects that solve real-world problems 
+
+### 📚 Featured Projects
+- **🕒 Personalized Time & Task Manager** – Smart alerts to boost productivity
+- **📅 Smart Timetable Generator** – Never miss a class again!
+- **📚 Online Resource Finder** – Discover the best study materials
+- **👨‍� Senior-Junior Mentorship Platform** – Bridging the guidance gap
+
+### 📼 Connect With Me
+- 🌐 [LinkedIn](https://www.linkedin.com/in/prashant-vishwakarma-233943265/)
+- 🎨 [GitHub](https://github.com/Prashantv19)
+- 💬 Let's discuss tech & collab on awesome projects!
+
+**"Code, Learn, Innovate & Build!"**
