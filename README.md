@@ -3,7 +3,7 @@
 ### *Full-Stack Developer | Java Learner | MERN Developer | Building Real-World Projects*
 ![Banner](https://capsule-render.vercel.app/api?type=waving\&color=0:0d0d0d,100:2e2e2e\&height=200\&text=Prashant%20Vishwakarma\&fontColor=ffffff\&fontSize=40\&fontAlign=50\&fontAlignY=40)
 
-Hey there! I'm Prashant — a tech enthusiast who loves turning ideas into **<code> that works**.
+Hey there! I'm Prashant — a tech enthusiast who loves turning ideas into **CODE that works.**
 Whether it's a full-stack web app, a Java desktop tool, or a clean UI on the front-end, I enjoy building things that actually help people.
 
 ---
