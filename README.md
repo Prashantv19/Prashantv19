@@ -1,9 +1,9 @@
 #  Prashant Vishwakarma 🧑‍💻
 
-### *Full-Stack Learner | Java Lover | MERN Explorer | Building Real-World Projects*
+### *Full-Stack Developer | Java Learner | MERN Developer | Building Real-World Projects*
 ![Banner](https://capsule-render.vercel.app/api?type=waving\&color=0:0d0d0d,100:2e2e2e\&height=200\&text=Prashant%20Vishwakarma\&fontColor=ffffff\&fontSize=40\&fontAlign=50\&fontAlignY=40)
 
-Hey there! I'm Prashant — a tech enthusiast who loves turning ideas into **working software**.
+Hey there! I'm Prashant — a tech enthusiast who loves turning ideas into **<code> that works**.
 Whether it's a full-stack web app, a Java desktop tool, or a clean UI on the front-end, I enjoy building things that actually help people.
 
 ---
@@ -23,7 +23,7 @@ Whether it's a full-stack web app, a Java desktop tool, or a clean UI on the fro
 * **Frontend:** React.js, HTML5, CSS3
 * **Backend:** Node.js, Express.js, Spring Boot
 * **Databases:** MySQL, MongoDB, Firebase
-* **Tools:** Git, GitHub, VS Code, IntelliJ, Eclipse
+* **Tools:** Git, GitHub, VS Code, IntelliJ, Eclipse, Chat GPT, Gemini, Antigravity, Postman, Vercel, ets
 
 ---
 
